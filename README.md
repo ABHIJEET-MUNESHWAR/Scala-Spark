@@ -1,6 +1,6 @@
-# Scala for beginers
+# Scala for Spark
 
-This repository contains introduction to scala basics.
+This repository contains introduction to scala for spark basics.
 
-Reference: https://www.youtube.com/watch?v=DzFt0YkZo8M
+Reference: https://www.youtube.com/playlist?list=PLf0swTFhTI8rv85gSUEyBxN6fdv5D2E0C
 
